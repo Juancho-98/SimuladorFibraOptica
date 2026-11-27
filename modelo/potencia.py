@@ -1,6 +1,6 @@
 """
 Módulo: potencia.py
-Responsable: Juan
+Responsable: Integrante 2
 Función: Cálculos de atenuación, pérdidas por eventos y presupuesto de potencia óptica (RF-02 a RF-05).
 """
 

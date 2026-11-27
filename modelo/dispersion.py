@@ -1,6 +1,4 @@
 """
-Módulo: dispersion.py
-Responsable: Integrante 3
 Función: Catálogo normativo de fibras, cálculo de dispersión, límite ISI y capacidad de canal (RF-07).
 """
 
